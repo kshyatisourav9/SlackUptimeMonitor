@@ -1,5 +1,7 @@
+#_website down notifier on slack
 #!/usr/bin/python3
 #-*- coding: utf-8 -*-
+
 from slackclient import SlackClient
 import requests
 import datetime
